@@ -11,7 +11,9 @@ keuangan is website for saving your money data
 ![interface](https://user-images.githubusercontent.com/25402171/55667386-de00cd80-5885-11e9-8ab1-fbaf377129d3.png)
 
 ## Update
-[4/10/2019 - 9:49PM] updated wishlist feature.
+[4/10/2019 - 9:49PM] updated wishlist feature. adding, editing and updating your wishlist!
+
+![wishlist](https://user-images.githubusercontent.com/25402171/55889210-ef760c80-5bda-11e9-9986-163e6e6a025e.png)
 
 ## Conclution
 This website make it easier for saving your money data because you not needed paper or book.
